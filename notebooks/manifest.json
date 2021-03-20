@@ -1,0 +1,229 @@
+{
+    "notebooks": [
+        {
+            "creation": "2020-08-29 15:20:05",
+            "id": "{eabb7de7-0f89-47e4-891f-bc9189a44dc0}",
+            "name": "专业课",
+            "notebooks": [
+                {
+                    "cover": "cover.png",
+                    "creation": "2020-08-29 15:17:49",
+                    "entry": "2021王道 ②操作系统考研复习指导",
+                    "id": "{71bf1704-3b26-48ba-a4f4-d8c1a4bb057b}",
+                    "name": "2021王道 ②操作系统考研复习指导",
+                    "type": 0
+                },
+                {
+                    "cover": "cover.png",
+                    "creation": "2020-08-29 15:15:29",
+                    "entry": "2021王道 ①数据结构考研复习指导",
+                    "id": "{1fb335db-f65d-4541-8204-ac03fcf7fa54}",
+                    "name": "2021王道 ①数据结构考研复习指导",
+                    "type": 0
+                },
+                {
+                    "cover": "cover.png",
+                    "creation": "2020-08-29 15:16:56",
+                    "entry": "2021王道计算机网络考研复习指导 by 王道论坛 (z-lib.org)",
+                    "id": "{7c82b5b0-7919-45bb-9980-21c50212a245}",
+                    "name": "2021王道计算机网络考研复习指导 by 王道论坛 (z-lib.org)",
+                    "type": 0
+                },
+                {
+                    "cover": "cover.png",
+                    "creation": "2020-08-29 15:10:42",
+                    "entry": "2021王道计算机组成原理考研复习指导 by 王道论坛 (z-lib.org)",
+                    "id": "{555517fc-54b8-4f12-90a7-f28653f1d404}",
+                    "name": "2021王道计算机组成原理考研复习指导 by 王道论坛 (z-lib.org)",
+                    "type": 0
+                }
+            ],
+            "type": 1
+        },
+        {
+            "creation": "2020-08-29 15:21:03",
+            "id": "{2d08efb5-d819-4721-a24d-80bad2b692f5}",
+            "name": "政治",
+            "notebooks": [
+                {
+                    "cover": "cover.png",
+                    "creation": "2020-08-29 15:10:40",
+                    "entry": "2021徐涛核心考案更多高清无水印PDF关注公众号【其然所以然免费分享】",
+                    "id": "{e9effffb-554e-4c14-8446-ffc2b3fd2909}",
+                    "name": "2021徐涛核心考案更多高清无水印PDF关注公众号【其然所以然免费分享】",
+                    "type": 0
+                },
+                {
+                    "cover": "cover.png",
+                    "creation": "2020-08-29 15:10:44",
+                    "entry": "2021年肖秀荣考研政治精讲精练-优化",
+                    "id": "{6757f645-0ba9-45f6-a240-9c6c00ba46b2}",
+                    "name": "2021年肖秀荣考研政治精讲精练-优化",
+                    "type": 0
+                }
+            ],
+            "type": 1
+        },
+        {
+            "creation": "2020-08-29 15:21:12",
+            "id": "{9442928a-5af8-4f79-82de-06d9620716c0}",
+            "name": "英语",
+            "notebooks": [
+                {
+                    "cover": "cover.png",
+                    "creation": "2020-08-29 15:05:23",
+                    "entry": "2021张剑英语一2001~2008试卷版【更多高清PDF见微信公众号 其然所以然】①  #1",
+                    "id": "{784b34e8-678e-4acb-a9d8-290bae6b1dc2}",
+                    "name": "2021张剑英语一2001~2008试卷版【更多高清PDF见微信公众号 其然所以然】①  #1",
+                    "type": 0
+                },
+                {
+                    "cover": "cover.png",
+                    "creation": "2020-08-29 15:10:47",
+                    "entry": "2005—2016年历年考研英语真题集",
+                    "id": "{393b7e73-8cb0-4d35-80b0-3b1abb681c03}",
+                    "name": "2005—2016年历年考研英语真题集",
+                    "type": 0
+                },
+                {
+                    "cover": "cover.png",
+                    "creation": "2020-09-16 21:10:38",
+                    "entry": "2021张剑英语黄皮书2010-2016试卷版",
+                    "id": "{d3afaf19-fb91-4cf6-b5fc-c47613e28769}",
+                    "name": "2021张剑英语黄皮书2010-2016试卷版",
+                    "type": 0
+                },
+                {
+                    "cover": "cover.png",
+                    "creation": "2020-11-09 18:45:54",
+                    "entry": "2021张剑英语黄皮书2007-2020英语二",
+                    "id": "{9961e6c0-209f-48fd-8b8b-9d55a1eb61e7}",
+                    "name": "2021张剑英语黄皮书2007-2020英语二",
+                    "type": 0
+                }
+            ],
+            "type": 1
+        },
+        {
+            "creation": "2020-08-29 15:21:23",
+            "id": "{2500d46d-047d-4189-b70d-731fd0f51658}",
+            "name": "软工",
+            "notebooks": [
+                {
+                    "cover": "cover.png",
+                    "creation": "2020-08-29 15:03:06",
+                    "entry": "系统分析与设计概述",
+                    "id": "{91d8679f-9b2c-4390-8bbb-8fa4fb21a131}",
+                    "name": "系统分析与设计概述",
+                    "type": 0
+                },
+                {
+                    "cover": "cover.png",
+                    "creation": "2021-01-13 16:27:29",
+                    "entry": "软件工程导论",
+                    "id": "{b48525a0-5fb4-43af-a17d-7d96bfa5ed92}",
+                    "name": "软件工程导论",
+                    "type": 0
+                }
+            ],
+            "type": 1
+        },
+        {
+            "creation": "2020-08-29 15:21:34",
+            "id": "{034f8b44-6863-4c2c-a8bb-bd567649d160}",
+            "name": "数学",
+            "notebooks": [
+                {
+                    "cover": "cover.png",
+                    "creation": "2020-08-29 15:10:45",
+                    "entry": "2020李永乐王式安武忠详复习全书（数学一）02",
+                    "id": "{353ad7eb-3a8d-4854-8017-b5936caca32d}",
+                    "name": "2020李永乐王式安武忠详复习全书（数学一）02",
+                    "type": 0
+                }
+            ],
+            "type": 1
+        },
+        {
+            "creation": "2021-01-14 16:00:42",
+            "id": "{382e7ad9-655d-4283-a58b-32dcf903cf4d}",
+            "name": "编程",
+            "notebooks": [
+                {
+                    "cover": "cover.png",
+                    "creation": "2020-12-31 23:11:52",
+                    "entry": "SpringBoot实战(第4版)",
+                    "id": "{f918cd00-d57a-48f1-bdfd-390c56a7d3d3}",
+                    "name": "SpringBoot实战(第4版)",
+                    "type": 0
+                },
+                {
+                    "cover": "cover.png",
+                    "creation": "2021-01-01 20:16:38",
+                    "entry": "剑指Offer：名企面试官精讲典型编程题 by 何海涛 (z-lib.org)",
+                    "id": "{ea84080a-6403-44fa-bb40-b5821efaeb39}",
+                    "name": "剑指Offer：名企面试官精讲典型编程题 by 何海涛 (z-lib.org)",
+                    "type": 0
+                },
+                {
+                    "cover": "cover.png",
+                    "creation": "2021-01-02 16:02:19",
+                    "entry": "C++ Primer Plus（第6版）（epub转pdf）",
+                    "id": "{53c70538-3146-4dba-832b-29f7ab8f64cc}",
+                    "name": "C++ Primer Plus（第6版）（epub转pdf）",
+                    "type": 0
+                },
+                {
+                    "cover": "cover.png",
+                    "creation": "2021-01-02 14:58:35",
+                    "entry": "c++primer plus 第6版",
+                    "id": "{615b9d49-6ac1-4b20-837b-5f52bcc6c547}",
+                    "name": "c++primer plus 第6版",
+                    "type": 0
+                },
+                {
+                    "cover": "cover.png",
+                    "creation": "2021-01-14 16:01:47",
+                    "entry": "《Spring Boot+Vue全栈开发实战》_王松_2018-12-01",
+                    "id": "{61db9b64-3b5e-4dae-8197-0a6f729ee1a0}",
+                    "name": "《Spring Boot+Vue全栈开发实战》_王松_2018-12-01",
+                    "type": 0
+                },
+                {
+                    "cover": "cover.png",
+                    "creation": "2021-01-21 11:21:23",
+                    "entry": "编译原理 by 张素琴 (z-lib.org)",
+                    "id": "{22a51681-b7a7-44a8-9103-3f810062a8bd}",
+                    "name": "编译原理 by 张素琴 (z-lib.org)",
+                    "type": 0
+                },
+                {
+                    "cover": "cover.png",
+                    "creation": "2021-01-31 11:51:58",
+                    "entry": "spring-boot-reference",
+                    "id": "{f3f29a85-4d4c-46c9-9c37-952881f9bb43}",
+                    "name": "spring-boot-reference",
+                    "type": 0
+                }
+            ],
+            "type": 1
+        },
+        {
+            "creation": "2021-01-24 19:00:25",
+            "id": "{483893b6-b73b-456c-ad88-156da10c3351}",
+            "name": "系统分析与设计",
+            "notebooks": [
+                {
+                    "cover": "cover.png",
+                    "creation": "2021-01-24 19:09:04",
+                    "entry": "系统分析与设计(原书第9版) by Kenneth E. Kendall (z-lib.org)",
+                    "id": "{8c0d050c-33b4-484e-b2c1-ecd193cb684d}",
+                    "name": "系统分析与设计(原书第9版) by Kenneth E. Kendall (z-lib.org)",
+                    "type": 0
+                }
+            ],
+            "type": 1
+        }
+    ],
+    "version": 2
+}
