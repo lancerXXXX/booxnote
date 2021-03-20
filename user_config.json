@@ -1,0 +1,55 @@
+{
+    "": {
+        "Width": 1
+    },
+    "AddNoteActiveEdit": true,
+    "AppFont": "华文楷体",
+    "AppFontSize": 12,
+    "AutoAddtoOutline": true,
+    "AutoCopyFileToLib": true,
+    "AutoOpenDoc": 0,
+    "CommentFont": "楷体",
+    "CommentFontSize": 11,
+    "CustomColors": "#feeb73 #a0ec6e #59c6ff #ff8280 #f89e02 #dadada #b9ddfd #fe01d4 #d49047 #01ff01 #01fffd #000000",
+    "EpubFont": "微软雅黑",
+    "FullScreenShowScrollbar": true,
+    "HotKeys": {
+        "112": "Ctrl+C",
+        "120": "Ctrl+O",
+        "126": "Ctrl+W",
+        "139": "Ctrl+F",
+        "149": "Ctrl+B",
+        "222": "Alt+3",
+        "238": "Alt+2",
+        "239": "F2",
+        "252": "Ctrl+Shift+O",
+        "318": "F10",
+        "421": "Alt+D",
+        "440": "F11",
+        "443": "Ctrl+Z",
+        "444": "Ctrl+Y",
+        "482": "Alt+E",
+        "485": "Alt+4"
+    },
+    "Line": {
+        "Color": "ffdadada",
+        "Width": 1
+    },
+    "LinePen": {
+        "Color": "ffdadada",
+        "Width": 16
+    },
+    "MindNodeWidth": 300,
+    "OutlineShowImage": true,
+    "OutlineShowText": true,
+    "PenShowTraces": true,
+    "Rectangle": {
+        "Color": "ffcacaca",
+        "FillColor": "ffc5c5c5",
+        "Width": 0
+    },
+    "ShowMode": 1,
+    "TextFrameFontSize": 5,
+    "TitleFont": "楷体",
+    "TitleFontSize": 9
+}
